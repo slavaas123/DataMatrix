@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\laba3lapich\\DataMatrixSlava\\DataMatrixSlava\\DataMatrixSlava.csproj": {}
+  },
+  "projects": {
+    "C:\\laba3lapich\\DataMatrixSlava\\DataMatrixSlava\\DataMatrixSlava.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\laba3lapich\\DataMatrixSlava\\DataMatrixSlava\\DataMatrixSlava.csproj",
+        "projectName": "DataMatrixSlava",
+        "projectPath": "C:\\laba3lapich\\DataMatrixSlava\\DataMatrixSlava\\DataMatrixSlava.csproj",
+        "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
+        "outputPath": "C:\\laba3lapich\\DataMatrixSlava\\DataMatrixSlava\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "ZXing.Net.Mobile": {
+              "target": "Package",
+              "version": "[3.0.0-beta5, )"
+            },
+            "ZXing.Net.Xamarin": {
+              "target": "Package",
+              "version": "[2.9.9--date20200930-0111.git-0b9e2a3, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
